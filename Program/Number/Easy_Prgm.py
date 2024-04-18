@@ -46,7 +46,7 @@
 #     print(t_Num,"x",i,t_Num*i)
 #     i=i+1
 
-# WAP to find the sum of first n numbers.(using while)
+# WAP to find the sum of first n numbers.(using whilse)
 num= int(input("Enter a Number:- "))
 pre_val=num
 sum=0
